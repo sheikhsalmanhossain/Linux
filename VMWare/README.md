@@ -5,12 +5,12 @@ it shows "temporary failure in name resolution"
 
 ## Delete everything Try again:
 
-## [installing time installing kernel failed:
+## 1) [installing time installing kernel failed:
 (installing time go to shell terminal: Ctrl+Alt+F2)
 ## Issue solved:
 it has a mirror/network setup step, and that’s where the issue comes in. so make internet off during installing.]
 
-## can not "ping google.com" solved:
+## 2) can not "ping google.com" solved:
 
 1) Check your netplan config:
 ls /etc/netplan/
