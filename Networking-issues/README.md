@@ -1,8 +1,8 @@
-
+In VMWare i create a vm ubuntu server 22 and face these issue:
 # when i try ping google.com
 it shows "temporary failure in name resolution"
 
-#Delete everything Try again:
+# Delete everything Try again:
 
 [## installing time installing kernel failed:
 (installing time go to shell terminal: Ctrl+Alt+F2)
