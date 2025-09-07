@@ -15,7 +15,7 @@ ls /etc/netplan/
 
 2) you will see a yaml file ( example abc.yaml)
 
-3)Edit it:
+3) Edit it:
 sudo vim /etc/netplan/abc.yaml
 
 4) Replace contents with this (for DHCP + NAT):
