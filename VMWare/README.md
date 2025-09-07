@@ -3,7 +3,7 @@
 ## when i try ping google.com
 it shows "temporary failure in name resolution"
 
-## Delete everything Try again:
+## Delete everything and Try again:
 
 ## 1) installing time installing kernel failed:
 (installing time go to shell terminal: Ctrl+Alt+F2)
