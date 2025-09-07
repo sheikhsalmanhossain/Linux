@@ -21,11 +21,11 @@ ls /etc/netplan/
 sudo vim /etc/netplan/abc.yaml
 
 4) Replace contents with this (for DHCP + NAT):
-network:
+'''network:
   version: 2
   ethernets:
     ens33:
-      dhcp4: true
+      dhcp4: true'''
 
 5) Apply changes:
 sudo netplan apply
